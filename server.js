@@ -8,6 +8,6 @@ app.use(express.json());
 app.use('/api', productRoutes);
 
 
-app.listen(port, () => {
-    console.log(`Server is running on port ${port}`);
+app.listen(PORT, () => {
+    console.log(`Server is running on port ${PORT}`);
 })
