@@ -1,4 +1,4 @@
-deploy with heroku:
+deploy with heroku before adding ci-cd:
 
 1) install heroku CLI
 2) run `heroku login`
